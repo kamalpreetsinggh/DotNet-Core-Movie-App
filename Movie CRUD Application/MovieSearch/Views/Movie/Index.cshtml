@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div id="loadOnStartUp">
+    <partial name="_MovieViewPartial" for="@Model" />
+</div>
+<div id="loadAfterSearch" style="margin-top: 60px">
+</div>
+<div style="margin-top: 75px">
+    Search a movie by its id:
+    <input type="text" id="inputSearchID" />
+</div>
+<div>
+    <input type="button" value="search"  data-attr="search" />
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/movie.js"></script>

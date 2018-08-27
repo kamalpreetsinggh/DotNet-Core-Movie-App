@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MovieSearch.Models.Movie.MovieModel>
+@{
+    ViewData["Title"] = "_MovieViewPartial";
+}
+
+<h2>Movie Details</h2>
+<table border="1" align="center" width="100%">
+    @foreach (var movie in Model)
+    {
+        <tr style="text-align: center; font-size: large; font-family: Calibri">
+            <td>@movie.MovieId</td>
+            <td>@movie.MovieName</td>
+            <td>@movie.ReleaseYear</td>
+            <td>@movie.Genre</td>
+        </tr>
+    }
+</table>
+

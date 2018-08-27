@@ -1,0 +1,33 @@
+﻿
+@model MovieSearch.Models.Movie.MovieModel
+@{
+    ViewData["Title"] = "Insert";
+}
+
+<div id="insertForm">
+    <h1>Add Movie </h1>
+    <form method="post" class="form-group" id="addMovie">
+        <div>
+            Movie ID :
+            <input type="number" name="MovieId" class="form-control" />
+        </div>
+        <br />
+        <div>
+            Movie Name :
+            <input type="text" name="MovieName" class="form-control" />
+        </div>
+        <br />
+        <div>
+            Release Year :
+            <input type="number" name="ReleaseYear" class="form-control" />
+        </div>
+        <br />
+        <div>
+            Genre :
+            <input type="text" name="Genre" class="form-control" />
+        </div>
+    </form>
+    <input type="submit" value="Add" data-attr="add" />
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/insert.js"></script>

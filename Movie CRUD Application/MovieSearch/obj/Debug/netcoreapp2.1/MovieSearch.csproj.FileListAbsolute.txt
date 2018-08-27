@@ -1,0 +1,71 @@
+C:\DotNet\MovieSearch\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.deps.json
+C:\DotNet\MovieSearch\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.runtimeconfig.json
+C:\DotNet\MovieSearch\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.runtimeconfig.dev.json
+C:\DotNet\MovieSearch\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.dll
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csprojAssemblyReference.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csproj.CoreCompileInputs.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorAssemblyInfo.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorAssemblyInfo.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.AssemblyInfoInputs.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.AssemblyInfo.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.TagHelpers.input.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.TagHelpers.output.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorCoreGenerate.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorTargetAssemblyInfo.cache
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorTargetAssemblyInfo.cs
+C:\DotNet\MovieSearch\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.pdb
+C:\DotNet\MovieSearch\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.Views.dll
+C:\DotNet\MovieSearch\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.Views.pdb
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.Views.pdb
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.dll
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.pdb
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csproj.CopyComplete
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Movie\_MovieViewPartial.g.cshtml.cs
+C:\DotNet\MovieSearch\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Movie\_MovieByIdViewPartial.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.deps.json
+C:\DotNet\Movie CRUD Application\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.runtimeconfig.json
+C:\DotNet\Movie CRUD Application\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.runtimeconfig.dev.json
+C:\DotNet\Movie CRUD Application\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.dll
+C:\DotNet\Movie CRUD Application\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.pdb
+C:\DotNet\Movie CRUD Application\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.Views.dll
+C:\DotNet\Movie CRUD Application\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.Views.pdb
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csprojAssemblyReference.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csproj.CoreCompileInputs.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorAssemblyInfo.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorAssemblyInfo.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.AssemblyInfoInputs.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.AssemblyInfo.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.TagHelpers.input.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.TagHelpers.output.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorCoreGenerate.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Index.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Movie\_MovieByIdViewPartial.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Movie\_MovieViewPartial.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorTargetAssemblyInfo.cache
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.RazorTargetAssemblyInfo.cs
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.Views.pdb
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.dll
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.pdb
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csproj.CopyComplete
+C:\DotNet\Movie CRUD Application\MovieSearch\obj\Debug\netcoreapp2.1\Razor\Views\Movie\Insert.g.cshtml.cs
