@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNet\\Movie CRUD Application\\MovieSearch\\MovieSearch.csproj",
+      "projectUniqueName": "C:\\Users\\kamalpreet.singh\\Desktop\\DotNet-Core-Movie-App\\Movie CRUD Application\\MovieSearch\\MovieSearch.csproj",
       "projectName": "MovieSearch",
-      "projectPath": "C:\\DotNet\\Movie CRUD Application\\MovieSearch\\MovieSearch.csproj",
+      "projectPath": "C:\\Users\\kamalpreet.singh\\Desktop\\DotNet-Core-Movie-App\\Movie CRUD Application\\MovieSearch\\MovieSearch.csproj",
       "packagesPath": "C:\\Users\\kamalpreet.singh\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNet\\Movie CRUD Application\\MovieSearch\\obj\\",
+      "outputPath": "C:\\Users\\kamalpreet.singh\\Desktop\\DotNet-Core-Movie-App\\Movie CRUD Application\\MovieSearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

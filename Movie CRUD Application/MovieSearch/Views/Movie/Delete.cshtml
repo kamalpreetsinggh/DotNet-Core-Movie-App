@@ -1,0 +1,18 @@
+﻿@model MovieSearch.Models.Movie.MovieModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div id="deleteForm">
+    <h1>Delete Movie </h1>
+    <form method="post" class="form-group" id="deleteMovieForm">
+        <div>
+            Movie ID :
+            <input type="number" name="MovieId" class="form-control" />
+        </div>
+    </form>
+    <input type="submit" value="Delete" data-attr="delete" />
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/delete.js"></script>

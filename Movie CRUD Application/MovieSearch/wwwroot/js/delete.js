@@ -1,12 +1,12 @@
-﻿$('[data-attr="add"]').on('click', function () {
+﻿$('[data-attr="delete"]').on('click', function () {
     $.ajax(
         {
-            url: "/Movie/Insert",
+            url: "/Movie/Delete",
             type: "POST",
-            data: $('#addMovie').serialize(),
+            data: $('#deleteMovieForm').serialize(),
             success: function (response) {
                 $('#PartialResultView').html(response)
-                window.location.href ='/'
+                window.location.href = '/'
             },
             Error: function (err) {
 

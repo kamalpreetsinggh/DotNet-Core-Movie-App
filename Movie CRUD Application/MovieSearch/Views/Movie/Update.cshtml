@@ -1,12 +1,12 @@
-﻿
-@model MovieSearch.Models.Movie.MovieModel
+﻿@model MovieSearch.Models.Movie.MovieModel
+
 @{
-    ViewData["Title"] = "Insert";
+    ViewData["Title"] = "Update";
 }
 
-<div id="insertForm">
-    <h1>Add Movie </h1>
-    <form method="post" class="form-group" id="addMovie" action="Insert">
+<div id="updateForm">
+    <h1>Update Movie </h1>
+    <form method="post" class="form-group" id="updateMovieForm" action="Insert">
         <div>
             Movie ID :
             <input type="number" name="MovieId" class="form-control" />
@@ -27,7 +27,7 @@
             <input type="text" name="Genre" class="form-control" />
         </div>
     </form>
-    <input type="submit" value="Add" data-attr="add" />
+    <input type="submit" value="Update" data-attr="update" />
 </div>
 <script src="~/lib/jquery/dist/jquery.js"></script>
-<script src="~/js/insert.js"></script>
+<script src="~/js/update.js"></script>

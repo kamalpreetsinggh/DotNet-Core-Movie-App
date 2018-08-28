@@ -11,7 +11,6 @@ $('[data-attr="search"]').on('click', function () {
                 $('#loadAfterSearch').html(response);
             },
             error: function (err) {
-                console.log(err);
                 $('#loadOnStartUp').hide();
                 $('#loadAfterSearch').html('');
                 $('#loadAfterSearch').html(err.statusText);
